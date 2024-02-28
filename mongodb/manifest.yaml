@@ -23,7 +23,7 @@ spec:
     spec:
       container: 
       - name: mongodb
-      image: joindevops/momgodb:v1
+      image: venkat4201/momgodb:v1
       imagePullPolicy: Always
 
 
